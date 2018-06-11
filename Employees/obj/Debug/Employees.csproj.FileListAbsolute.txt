@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\andre\source\repos\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\andre\source\repos\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\MainWindow.g.cs
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\App.g.cs
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees_MarkupCompile.cache
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees_MarkupCompile.lref
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\MainWindow.baml
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.g.resources
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\andre\source\repos\Employees\Employees\obj\Debug\Employees.pdb
